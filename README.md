@@ -1,93 +1,86 @@
 <div align="center">
 
-# 💻 Praktikum Pemrograman Web
-### *Repository Resmi Praktikum Pemrograman Web — Nurlutfiah Maulidiya F*
+# 🌐 PRAKTIKUM PEMROGRAMAN WEB 2026
+### Institut Teknologi Garut (ITG)
 
-[![Status](https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
-[![Language](https://img.shields.io/badge/HTML5%20%2F%20CSS3%20%2F%20JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-
-*Kumpulan tugas, modul praktikum, dan proyek pengembangan web interaktif.*
+[![Status Praktikum](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
 
 ---
 
-## 📖 Tentang Repository
+## 👤 Informasi Mahasiswa
 
-Repository ini didedikasikan untuk menyimpan seluruh hasil pembelajaran, latihan, tugas mingguan, serta proyek akhir dari mata kuliah **Praktikum Pemrograman Web**. Di sini mengeksplorasi dasar-dasar pengembangan web modern, mulai dari struktur tampilan statis hingga sistem aplikasi web dinamis berbasis sisi server (*backend*).
+| Atribut | Keterangan |
+| :--- | :--- |
+| **Nama Lengkap** | Nurlutfiah Maulidiya F |
+| **NIM** | 2406109 |
+| **Kelas / Prodi** | Teknik Informatika - ITG |
+| **Kode Mata Kuliah** | IFRWP5151 |
+| **Dosen Pengampu** | Tim Dosen Pemrograman Web ITG |
+
+---
+
+## 📖 Deskripsi Repositori
+Repositori `Nurlutfiah_Maulidiya_F-PRAK_PEMROG_WEB` ini dibuat untuk memenuhi, merekam, dan mendokumentasikan seluruh rangkaian tugas, latihan modul, serta proyek praktikum dalam mata kuliah **Pemrograman Web** Tahun 2026 di Institut Teknologi Garut (ITG).
+
+---
+
+## ⚙️ Panduan Pengerjaan & Dokumentasi Praktikum
+
+### **Langkah 4: Membuat File Dokumentasi Repositori**
+1. Buka aplikasi **Visual Studio Code (VS Code)**.
+2. Klik menu **File** > **Open Folder...**, lalu buat folder baru dengan nama `praktikum-web2026` dan klik **Select Folder**.
+3. Buat file baru bernama `README.md` di direktori utama proyek tersebut.
+4. Tuliskan atau salin teks dokumentasi berikut ke dalam file `README.md`:
+
+```markdown
+# Repositori Praktikum Pemrograman Web 2026
+
+**Informasi Mahasiswa:**
+* **Nama:** Nurlutfiah Maulidiya F
+* **NIM:** 2406109
+* **Kelas/Prodi:** Teknik Informatika - ITG
+* **Kode MK:** IFRWP5151
+
+---
+
+## Catatan Modul 1
+- Instalasi & Verifikasi Tools (VS Code, Node.js, Laragon, Git).
+- Uji coba Laragon MySQL berjalan pada Port 3306.
+- Konfigurasi identitas Git global.
+```
+
+---
+
+## 📚 Daftar Modul & Progres Praktikum
+
+| Modul | Topik / Materi Pembelajaran | Status |
+| :---: | :--- | :---: |
+| **Modul 1** | Instalasi Tools & Konfigurasi Git (VS Code, Node.js, Laragon, Git) | ✅ Selesai |
+| **Modul 2** | Dasar-dasar HTML5 & Semantic Web | 🔄 *On Progress* |
+| **Modul 3** | Styling dengan CSS3 & Responsive Design | ⏳ *Coming Soon* |
+| **Modul 4** | JavaScript Dasar & DOM Manipulation | ⏳ *Coming Soon* |
+| **Modul 5** | Pemrograman Backend dengan PHP | ⏳ *Coming Soon* |
+| **Modul 6** | Koneksi Database MySQL & CRUD | ⏳ *Coming Soon* |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-Teknologi dan perangkat lunak yang digunakan selama proses pembelajaran praktikum ini meliputi:
-
-| Kategori | Teknologi / Tools |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & IDE** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
-
----
-
-## 📂 Struktur Direktori
-
-Struktur folder dalam repository ini diorganisasikan berdasarkan modul atau pertemuan praktikum:
-
-```text
-Nurlutfiah_Maulidiya_F-PRAK_PEMROG_WEB/
-│
-├── 📁 pertemuan-01/   # Pengenalan HTML & Struktur Dasar Web
-├── 📁 pertemuan-02/   # Styling dengan CSS (Box Model & Layout)
-├── 📁 pertemuan-03/   # Responsive Web Design & Flexbox
-├── 📁 pertemuan-04/   # Dasar Pemrograman JavaScript
-├── 📁 pertemuan-05/   # DOM Manipulation & Event Handling
-├── 📁 pertemuan-06/   # Pengenalan PHP (Sintaks & Logika Dasar)
-├── 📁 pertemuan-07/   # Koneksi PHP dengan Database MySQL
-├── 📁 tugas-besar/    # Proyek Akhir Praktikum Pemrograman Web
-└── 📄 README.md       # Dokumentasi Repository
-```
-
-*(Catatan: Struktur direktori di atas dapat disesuaikan dengan modul riil yang Anda kerjakan).*
-
----
-
-## 🚀 Cara Menjalankan Proyek (Local Setup)
-
-Untuk menjalankan kode-kode yang ada di repository ini di komputer lokal Anda, ikuti langkah-langkah berikut:
-
-1. **Clone repository ini:**
-   ```bash
-   git clone https://github.com/username/Nurlutfiah_Maulidiya_F-PRAK_PEMROG_WEB.git
-   ```
-2. **Pindahkan folder ke direktori server lokal:**
-   Jika menggunakan XAMPP, letakkan folder repository ke dalam direktori `htdocs` (`C:\xampp\htdocs\` di Windows).
-3. **Nyalakan Web Server:**
-   Buka aplikasi XAMPP Control Panel, lalu aktifkan layanan **Apache** dan **MySQL**.
-4. **Akses melalui browser:**
-   Buka browser favorit Anda dan ketikkan URL berikut:
-   ```text
-   http://localhost/Nurlutfiah_Maulidiya_F-PRAK_PEMROG_WEB/
-   ```
-
----
-
-## 👩‍💻 Author
-
-<div align="center">
-
-**Nurlutfiah Maulidiya F**  
-*Mahasiswa / Praktikan Pemrograman Web*
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-
-</div>
+* **Code Editor:** Visual Studio Code
+* **Local Server & Database:** Laragon (Apache & MySQL Port `3306`)
+* **Version Control:** Git & GitHub
+* **Languages:** HTML5, CSS3, JavaScript, PHP
 
 ---
 
 <div align="center">
-  <i>⭐ Jangan lupa berikan bintang (star) pada repository ini jika bermanfaat! ⭐</i>
+  <p>Dibuat dengan ❤️ oleh <b>Nurlutfiah Maulidiya F</b></p>
+  <p><i>Institut Teknologi Garut — 2026</i></p>
 </div>
