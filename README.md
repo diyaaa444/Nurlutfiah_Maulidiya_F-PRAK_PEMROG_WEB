@@ -23,7 +23,7 @@
 | **NIM** | 2406109 |
 | **Kelas / Prodi** | Teknik Informatika - ITG |
 | **Kode Mata Kuliah** | IFRWP5151 |
-| **Dosen Pengampu** | Tim Dosen Pemrograman Web ITG |
+| **Dosen Pengampu** | Ade Sutedi S.T,M.KOM|
 
 ---
 
