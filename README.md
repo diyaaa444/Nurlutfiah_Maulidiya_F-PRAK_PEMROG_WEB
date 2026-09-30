@@ -23,7 +23,7 @@
 | **NIM** | 2406109 |
 | **Kelas / Prodi** | Teknik Informatika - ITG |
 | **Kode Mata Kuliah** | IFRWP5151 |
-| **Dosen Pengampu** | Ade Sutedi S.T,M.KOM|
+| **Dosen Pengampu** | Ade Sutedi S.T,M.Kom|
 
 ---
 
