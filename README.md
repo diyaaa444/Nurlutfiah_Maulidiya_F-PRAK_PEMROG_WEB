@@ -23,7 +23,7 @@
 | **NIM** | 2406109 |
 | **Kelas / Prodi** | Teknik Informatika - ITG |
 | **Kode Mata Kuliah** | IFRWP5151 |
-| **Dosen Pengampu** | Ade Sutedi S.T,M.Kom|
+| **Dosen Pengampu** | Ade Sutedi S.T,M.Kom |
 
 ---
 
@@ -77,6 +77,21 @@ Repositori `Nurlutfiah_Maulidiya_F-PRAK_PEMROG_WEB` ini dibuat untuk memenuhi, m
 * **Local Server & Database:** Laragon (Apache & MySQL Port `3306`)
 * **Version Control:** Git & GitHub
 * **Languages:** HTML5, CSS3, JavaScript, PHP
+
+---
+
+### 💻 Spesifikasi Perangkat
+
+Berikut adalah daftar ringkas spesifikasi perangkat/laptop yang digunakan dalam pengerjaan praktikum:
+
+| Komponen / Tools | Keterangan Perangkat |
+| :--- | :--- |
+| **Sistem Operasi (OS)** | Windows 11 Pro (64-bit) |
+| **Memori (RAM)** | 16 GB |
+| **Node.js Version** | 24.2`.0 |
+| **Git Version** | 2.56.0.windows.1 |
+| **Code Editor** | Visual Studio Code |
+| **Local Environment** | Laragon (Apache / MySQL Port 3306) |
 
 ---
 
